@@ -1,2 +1,1 @@
-# To-do-app
-First project 
+JAVA PROGRAM FOR STUDENTS 
